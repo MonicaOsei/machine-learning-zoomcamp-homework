@@ -5,4 +5,5 @@
 [Evaluation - Homework 4](Homework4_Evaluation.ipynb)  
 [Deployment - Homework 5](Homework5.1.ipynb)  
 [Trees - Homework 6](Homework6_Trees.ipynb)  
-[Deep Learning - Homework 8](Homework8_Deep_Learning.ipynb)
+[Deep Learning - Homework 8](Homework8_Deep_Learning.ipynb)  
+[Serverless - Homework 9](Homework9.ipynb)
